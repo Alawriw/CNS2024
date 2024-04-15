@@ -8,4 +8,4 @@ Practicing with Git!
 
 testing github for the first time
 
-Is this working now?  CJ is awesome
+Is this working now?  Alex is awesome
